@@ -31,24 +31,42 @@ jobs:
         uses: actions/checkout@v4
 
 
-      - name: Generate snake SVG locally
+      - name: Generate snake SVG
+
+        uses: Platane/snk@v3
+
+        with:
+
+          github_user_name: LucasSantos9711
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          outputs: output/github-snake.svg
+
+
+      - name: Verify snake file was created
 
         run: |
 
-          mkdir -p output
-
-          npx -y -p @platane/snk@latest snk --github_user_name LucasSantos9711 --output output/github-snake.svg
-
-
-      - name: Verify snake file exists
-
-        run: |
+          echo "=== Files generated ==="
 
           ls -la output/
 
-          echo "---"
+          echo ""
 
-          file output/github-snake.svg || echo "file command not available"
+          echo "=== File size check ==="
+
+          if [ -f output/github-snake.svg ]; then
+
+            echo "✅ SVG file exists! Size: $(stat -c%s output/github-snake.svg) bytes"
+
+          else
+
+            echo "❌ SVG file was NOT created"
+
+            exit 1
+
+          fi
 
 
       - name: Push snake to output branch
