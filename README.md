@@ -268,6 +268,15 @@ Bot que atende clientes e registra no Sheets
 </div>
 
 ---
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/LucasSantos9711/LucasSantos9711/output/github-snake.svg)
+
+</div>
 
 <div align="center">
 
