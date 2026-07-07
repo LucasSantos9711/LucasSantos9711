@@ -21,10 +21,9 @@ jobs:
           svg_path: output/github-snake.svg
           png_path: output/github-snake.png
 
-      - name: Push to output branch
-        uses: cschettler/publish-action@v1
+      - name: Deploy snake to output branch
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: output
+          token: ${{ secrets.GITHUB_TOKEN }}
