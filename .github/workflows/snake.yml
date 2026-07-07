@@ -1,33 +1,66 @@
 name: Generate snake animation
 
+
 on:
+
   schedule:
+
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
+
 permissions:
+
   contents: write
 
+
 jobs:
+
   generate:
+
     runs-on: ubuntu-latest
+
     timeout-minutes: 5
 
+
     steps:
+
       - name: Checkout repo
+
         uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: LucasSantos9711
-          outputs: |
-            output/github-snake.svg
+
+      - name: Generate snake SVG locally
+
+        run: |
+
+          mkdir -p output
+
+          npx -y -p @platane/snk@latest snk --github_user_name LucasSantos9711 --output output/github-snake.svg
+
+
+      - name: Verify snake file exists
+
+        run: |
+
+          ls -la output/
+
+          echo "---"
+
+          file output/github-snake.svg || echo "file command not available"
+
 
       - name: Push snake to output branch
+
         uses: ad-m/github-push-action@v0.6.0
+
         with:
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
           branch: output
+
           directory: output
+
           force: true
