@@ -18,8 +18,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: LucasSantos9711
-          svg_path: output/github-snake.svg
-          png_path: output/github-snake.png
+          outputs: |
+            output/github-snake.svg
+            output/github-snake.png
 
       - name: Deploy snake to output branch
         uses: JamesIves/github-pages-deploy-action@v4.4.1
