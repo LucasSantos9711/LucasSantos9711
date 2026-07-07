@@ -34,10 +34,10 @@
 ```yaml
 name: Lucas Lopes dos Santos
 location: Brasil, Curitiba-PR (Remote-first)
-role: Senior Data Analyst & RPA Developer
-experience: 5+ years in data, automation & finance
+role: Senior Data Analyst and RPA Developer
+experience: 5+ years in data, automation and finance
 languages: English (C1), Spanish (B2), Portuguese (native)
-currently: Open for senior remote roles & consulting
+currently: Open for senior remote roles and consulting
 ```
 
 > **Data Analyst &amp; RPA Developer with 5+ years of experience** in data analysis, automation (RPA), and financial reporting — delivering operational efficiency, strategic insights, and team leadership.
