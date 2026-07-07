@@ -33,16 +33,16 @@
 
 ```yaml
 name: Lucas Lopes dos Santos
-location: 🇧🇷 Curitiba, Paraná, Brazil (Remote-first)
+location: Brasil, Curitiba-PR (Remote-first)
 role: Senior Data Analyst & RPA Developer
 experience: 5+ years in data, automation & finance
 languages: English (C1), Spanish (B2), Portuguese (native)
 currently: Open for senior remote roles & consulting
 ```
 
-> **Data Analyst & RPA Developer with 5+ years of experience** in data analysis, automation (RPA), and financial reporting — delivering operational efficiency, strategic insights, and team leadership.
+> **Data Analyst &amp; RPA Developer with 5+ years of experience** in data analysis, automation (RPA), and financial reporting — delivering operational efficiency, strategic insights, and team leadership.
 
-- 🔭 Currently working on: **Power BI dashboards, Azure data pipelines & Python automations**
+- 🔭 Currently working on: **Power BI dashboards, Azure data pipelines &amp; Python automations**
 - 🌱 Learning: **LangChain, Vector Databases, AI-powered analytics**
 - 💬 Ask me about: **Power BI, DAX, T-SQL, Python, RPA, Azure Data Factory, VBA, ETL**
 - 🌍 Open to: **Remote contracts worldwide (UTC-3)** — already worked with global teams (CNH Industrial)
@@ -55,29 +55,29 @@ currently: Open for senior remote roles & consulting
 
 <div align="center">
 
-**Data & BI**
+**Data &amp; BI**
 
 <img src="https://skillicons.dev/icons?i=python,sql,bash&theme=dark" />
-<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAS-002F66?style=for-the-badge&logo=sas&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAS-002F66?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-**Automation & RPA**
+**Automation &amp; RPA**
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,docker,linux&theme=dark" />
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>
-<img src="https://img.shields.io/badge/RPA-FF6B35?style=for-the-badge&logo=robot-framework&logoColor=white"/>
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge"/>
 <img src="https://skillicons.dev/icons?i=n8n,zapier&theme=dark" />
 
-**Cloud & Databases**
+**Cloud &amp; Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 **Tools**
 
@@ -104,7 +104,7 @@ currently: Open for senior remote roles & consulting
 
 ---
 
-### 🏆 Troféus & Conquistas
+### 🏆 Troféus &amp; Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasSantos9711&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
@@ -126,8 +126,8 @@ Dashboard executivo de KPIs regulatórios e financeiros
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 </td>
@@ -141,7 +141,7 @@ Bot que automatiza rotinas bancárias e administrativas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
@@ -157,8 +157,8 @@ Pipeline escalável Data Lake → Data Factory → SQL
 - 🔹 Orquestração + monitoring + alertas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -205,7 +205,7 @@ Bot que atende clientes e registra no Sheets
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=n8n&theme=dark" />
-  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge"/>
 </p>
 
 </td>
@@ -214,14 +214,14 @@ Bot que atende clientes e registra no Sheets
 
 ---
 
-### 💼 Experiência & Expertise
+### 💼 Experiência &amp; Expertise
 
 <table align="center">
 <tr><th align="left">🎯 Área</th><th align="left">O que entrego</th></tr>
 <tr><td>📊 <b>Data Analysis</b></td><td>KPIs, relatórios regulatórios, modelagem financeira, análise estatística</td></tr>
 <tr><td>📈 <b>Power BI / DAX</b></td><td>Dashboards de gestão, KPIs executivos, modelagem dimensional</td></tr>
 <tr><td>🗄️ <b>SQL (T-SQL, SAS)</b></td><td>Consultas avançadas, modelagem, ETL, queries otimizadas</td></tr>
-<tr><td>🤖 <b>RPA & Automation</b></td><td>Power Automate, Python bots, Selenium, rotinas bancárias</td></tr>
+<tr><td>🤖 <b>RPA &amp; Automation</b></td><td>Power Automate, Python bots, Selenium, rotinas bancárias</td></tr>
 <tr><td>☁️ <b>Azure Cloud</b></td><td>Data Lake, Data Factory, análises escaláveis</td></tr>
 <tr><td>📋 <b>Excel Avançado</b></td><td>Modelagem financeira, VBA, dashboards complexos</td></tr>
 <tr><td>👥 <b>Liderança</b></td><td>Mentoria, sprints, workshops, stakeholder management</td></tr>
@@ -242,29 +242,29 @@ Bot que atende clientes e registra no Sheets
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║     ⚔️  CHARACTER SHEET — LUCAS LOPES  ⚔️           ║
-╠══════════════════════════════════════════════════════╣
-║  CLASS       : Senior Data Analyst / RPG Master     ║
-║  LEVEL       : 99                                   ║
-║  HP          : ∞ (café powered)                     ║
-║  MP          : ∞ (SQL queries on demand)            ║
-║  LANGUAGES   : EN (C1) · ES (B2) · PT (native)      ║
-║                                                      ║
-║  STATS:                                              ║
-║  ⚔️ STR : ████████████  SQL & T-SQL                  ║
-║  🏹 DEX : ████████████  Python & RPA                 ║
-║  🧠 INT : ████████████  Data Modeling & DAX          ║
-║  ✨ CHA : ████████████  Stakeholder Communication    ║
-║  🎲 LUK : ████████████  Dice Rolling (RPG Master)   ║
-║                                                      ║
-║  QUEST LOG 2026:                                     ║
-║  ☐ Travel to Europe + Latin America                 ║
-║  ☐ Build recurring international client base        ║
-║  ☐ Master LangChain & AI-powered analytics          ║
-║  ☐ Mentor 5+ junior analysts                        ║
-║  ☐ Speak at a data community meetup                  ║
-╚══════════════════════════════════════════════════════╝
++==================================================+
+|     [SWORD]  CHARACTER SHEET — LUCAS LOPES  [SWORD]     |
++==================================================+
+|  CLASS       : Senior Data Analyst / RPG Master  |
+|  LEVEL       : 99                                  |
+|  HP          : infinito (cafe powered)            |
+|  MP          : infinito (SQL queries on demand)   |
+|  LANGUAGES   : EN (C1) * ES (B2) * PT (native)    |
+|                                                   |
+|  STATS:                                           |
+|  [SWORD] STR : ##############  SQL &amp; T-SQL              |
+|  [BOW]  DEX : ##############  Python &amp; RPA             |
+|  [BRAIN] INT : ##############  Data Modeling &amp; DAX         |
+|  [STAR] CHA : ##############  Stakeholder Communication|
+|  [DICE] LUK : ##############  Dice Rolling (RPG Master) |
+|                                                   |
+|  QUEST LOG 2026:                                  |
+|  [ ] Travel to Europe + Latin America             |
+|  [ ] Build recurring international client base    |
+|  [ ] Master LangChain &amp; AI-powered analytics       |
+|  [ ] Mentor 5+ junior analysts                    |
+|  [ ] Speak at a data community meetup             |
++==================================================+
 ```
 
 <sub>🎲 Roll 1d20 to discover if I'll accept your quest.</sub>
@@ -273,7 +273,7 @@ Bot que atende clientes e registra no Sheets
 
 ---
 
-### 💼 Services — Freelance & Consulting
+### 💼 Services — Freelance &amp; Consulting
 
 <div align="center">
 
@@ -281,10 +281,10 @@ Bot que atende clientes e registra no Sheets
 |------------|---------------|-------------|-------------|
 | 📊 Power BI Dashboards | from $400 | R$ 2.000 | 1-2 weeks |
 | 🤖 RPA / Process Automation | from $600 | R$ 3.000 | 1-2 weeks |
-| 🗄️ SQL & T-SQL Consulting | from $300 | R$ 1.500 | 3-7 days |
+| 🗄️ SQL &amp; T-SQL Consulting | from $300 | R$ 1.500 | 3-7 days |
 | 🏗️ Azure Data Pipeline | from $800 | R$ 4.000 | 2-3 weeks |
-| 📈 Data Analysis & Reporting | from $400 | R$ 2.000 | 1-2 weeks |
-| 🔌 Python Automation & Bots | from $500 | R$ 2.500 | 1-2 weeks |
+| 📈 Data Analysis &amp; Reporting | from $400 | R$ 2.000 | 1-2 weeks |
+| 🔌 Python Automation &amp; Bots | from $500 | R$ 2.500 | 1-2 weeks |
 | 👥 Mentoring (per hour) | $50/h | R$ 250/h | flexible |
 
 <sub>🌍 Remote contracts worldwide · 💬 EN / ES / PT · 📅 Available immediately</sub>
@@ -297,13 +297,13 @@ Bot que atende clientes e registra no Sheets
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LucasSantos9711/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas2411/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.lsantos@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541996446470)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos9711)
 [![Toptal](https://img.shields.io/badge/Toptal-2049F1?style=for-the-badge&logo=toptal&logoColor=white)](#)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
-[![Curitiba-PR](https://img.shields.io/badge/Curitiba--PR-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Curitiba-PR](https://img.shields.io/badge/Curitiba--PR-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
